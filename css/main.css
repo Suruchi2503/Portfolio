@@ -171,35 +171,6 @@ section {
   margin-bottom: 2em;
 }
 
-.skills-container ul li form p {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-}
-
-.skills-container ul li .input-design {
-  border-radius: 0.3em;
-  outline: none;
-  border: 1px solid #979494a3;
-  padding: 0.5em;
-  color: #6e00ff;
-  font-family: "Poppins";
-  width: 100%;
-}
-
-.skills-container ul li .SendButton {
-  width: 50px;
-  height: 30px;
-  display: block;
-  margin-left: auto;
-  margin-right: 0;
-  background: #6e00ff;
-  border-radius: 0.5em;
-  border: none;
-  outline: none;
-  color: white;
-}
-
 .portfolio {
   background: #f7f7f7;
 }

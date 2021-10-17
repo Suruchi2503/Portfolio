@@ -47,9 +47,7 @@ header {
 }
 
 .social-header,
-.hero-design
-// .footer-design
-{
+.hero-design {
   display: none;
 }
 
@@ -167,53 +165,11 @@ section {
   .featured-desc {
     margin-bottom: 2em;
   }
-
-  // form .featured-mail {
-  //   color: black;
-  //   font-weight: bold;
-  //   font-size: 1.1em;
-  //   margin-top: 0.1em;
-  // }
-  form p {
-    display: flex;
-  }
-
-  .input-design {
-    border-radius: 0.3em;
-    outline: none;
-    border: 1px solid #979494a3;
-    padding: 0.5em;
-    color: #6e00ff;
-    font-family: "Poppins";
-    width: 100%;
-  }
-
-  .SendButton {
-    width: 50px;
-    height: 30px;
-    display: block;
-    margin-left: auto;
-    margin-right: 0;
-    background: #6e00ff;
-    border-radius: 0.5em;
-    border: none;
-    outline: none;
-    color: white;
-  }
 }
 
 .portfolio {
   background: #f7f7f7;
 }
-
-// .contact {
-//   background: #f7f7f7;
-//   margin-top: -10vh;
-
-//   .mail-inner {
-//     text-align: center;
-//   }
-// }
 
 .contact-container {
   background: white;
@@ -262,8 +218,6 @@ section {
 
 .footer {
   background: #6700ee;
-  // display: grid;
-  // grid-template-columns: 80% auto;
   a {
     color: white;
   }
@@ -289,10 +243,6 @@ section {
 
 .footer-design {
   display: none;
-  // margin-top: -0.8em;
-  // display: block;
-  // margin-left: auto;
-  // margin-right: 0;
 }
 
 .portfolio-container a img {
